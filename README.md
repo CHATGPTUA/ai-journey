@@ -33,7 +33,7 @@
 - [`hello_ai_digits.ipynb`](notebooks/hello_ai_digits.ipynb) — первая модель
 
 ---
-- ## 🧑‍💻 Прототипы
+## 🧑‍💻 Прототипы
 
 ### RAG-бот по документу
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHATGPTUA/ai-journey/blob/main/notebooks/rag_bot_tfidf.ipynb)
